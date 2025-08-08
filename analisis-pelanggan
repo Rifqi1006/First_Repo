@@ -2,6 +2,10 @@ Analisis Pelanggan:
 1. Cohort Analysis
 2. User Segmentation
 3. RFM Analysis
+   - Recency
+   - Frequency
+   - Monetary
 4. Market Basket Analysis
 5. Churn Analysis
 6. Customer Lifetime Value (CLV)
+7. Sentiment Analysis
